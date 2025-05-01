@@ -1,0 +1,5 @@
+DOSTOEVSKI: Crime and Punishment, The Brothers Karamazov, The Grand Inquisitor, The Possessed
+FLAUBERT: A Simple Heart, Madame Bovary, Memoirs of a Madman, Sentimental Education
+STENDHAL: The Red and the Black
+TOLSTOY: Anna Karenina, The Death of Ivan Illyich, The Kreutzer Sonata, War and Peace
+
